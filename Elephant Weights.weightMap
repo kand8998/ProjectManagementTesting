@@ -1,0 +1,27 @@
+// Exported skin weight map file
+// 
+Elephant_Geo	BaseRig:Root_J	Elephant_Geo_Root_J.iff
+Elephant_Geo	BaseRig:Hip_J_L_RK	Elephant_Geo_Hip_J_L_RK.iff
+Elephant_Geo	BaseRig:Knee_J_L_RK	Elephant_Geo_Knee_J_L_RK.iff
+Elephant_Geo	BaseRig:Ankle_J_L_RK	Elephant_Geo_Ankle_J_L_RK.iff
+Elephant_Geo	BaseRig:Hip_J_R_RK	Elephant_Geo_Hip_J_R_RK.iff
+Elephant_Geo	BaseRig:Knee_J_R_RK	Elephant_Geo_Knee_J_R_RK.iff
+Elephant_Geo	BaseRig:Ankle_J_R_RK	Elephant_Geo_Ankle_J_R_RK.iff
+Elephant_Geo	BaseRig:MiddleBack_j	Elephant_Geo_MiddleBack_j.iff
+Elephant_Geo	BaseRig:UpperBack_j	Elephant_Geo_UpperBack_j.iff
+Elephant_Geo	BaseRig:head_J	Elephant_Geo_head_J.iff
+Elephant_Geo	R_UpperEar_J	Elephant_Geo_R_UpperEar_J.iff
+Elephant_Geo	R_LowerEar_J	Elephant_Geo_R_LowerEar_J.iff
+Elephant_Geo	BaseRig:Jaw_J	Elephant_Geo_Jaw_J.iff
+Elephant_Geo	L_UpperEar_J	Elephant_Geo_L_UpperEar_J.iff
+Elephant_Geo	L_LowerEar_J	Elephant_Geo_L_LowerEar_J.iff
+Elephant_Geo	BaseRig:Clavical_J_L	Elephant_Geo_Clavical_J_L.iff
+Elephant_Geo	BaseRig:Shoulder_J_L2_RK	Elephant_Geo_Shoulder_J_L2_RK.iff
+Elephant_Geo	BaseRig:Shoulder_J_L_RK	Elephant_Geo_Shoulder_J_L_RK.iff
+Elephant_Geo	BaseRig:Elbow_J_L_RK	Elephant_Geo_Elbow_J_L_RK.iff
+Elephant_Geo	BaseRig:Wrist_J_L_RK	Elephant_Geo_Wrist_J_L_RK.iff
+Elephant_Geo	BaseRig:Clavical_J_R	Elephant_Geo_Clavical_J_R.iff
+Elephant_Geo	BaseRig:Shoulder_J_R_RK	Elephant_Geo_Shoulder_J_R_RK.iff
+Elephant_Geo	BaseRig:Elbow_J_R_RK	Elephant_Geo_Elbow_J_R_RK.iff
+Elephant_Geo	BaseRig:Wrist_J_R_RK	Elephant_Geo_Wrist_J_R_RK.iff
+Elephant_Geo	BaseRig:EyeLid_J_R	Elephant_Geo_EyeLid_J_R.iff
