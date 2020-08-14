@@ -69,3 +69,7 @@ crashlytics-build.properties
 *.dll
 
 
+
+StuffedSampleGame/Assets/Foundation/
+
+StuffedSampleGame/Assets/Tools/
